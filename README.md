@@ -1,20 +1,25 @@
 # ¡Hola! Soy David Orellana 👋
 
-### 🚀 Desarrollador Full Stack (DAW) en formación 
-Actualmente cursando el último año de **Desarrollo de Aplicaciones Web** en modalidad **Dual** en **Digital Cuisine**. Me especializo en crear soluciones reales que aporten valor al negocio, combinando la potencia del Backend con Java y la agilidad del Frontend con JavaScript.
+### 🚀 Desarrollador Full Stack (DAW) | Liderazgo y Compromiso
+Estudiante de último año de **Desarrollo de Aplicaciones Web** en el **I.E.S. Mar de Cádiz**. Mi trayectoria combina una base técnica sólida desde el grado medio (SMR) con la experiencia práctica en entornos reales.
 
 ---
 
-### 🛠️ Lo que estoy construyendo
-* **[JerezSur Inmobiliaria](URL_DE_TU_REPO_SI_LO_TIENES):** Sistema integral de gestión inmobiliaria.
-    * *Tech Stack:* Spring Boot, MySQL, Bootstrap y Google Calendar API.
-    * *Objetivo:* Digitalizar el negocio familiar automatizando la gestión de citas y CRM.
-* **[GameScore](URL_DE_TU_REPO_SI_LO_TIENES):** Plataforma para la comunidad gamer (Proyecto colaborativo).
-* **Aprendiendo actualmente:** Profundizando en **React** para modernizar mis interfaces.
+### 🛠️ Proyectos Destacados
+* **[JerezSur Inmobiliaria](URL_REPO):** (TFG) Sistema integral de gestión inmobiliaria con Spring Boot, MySQL y Google Calendar API. Digitalización real de negocio familiar. Actualmente se encuentra en contruccion.
+* **[GameScore](URL_REPO):** Trabajo grupal entre tres personas, trataba de una plataforma para la comunidad gamer desarrollada en equipo. Muestra nuestra aplicación de metodologías ágiles y use de APIs REST.
 
 ---
 
-### 💻 Mi Stack Tecnológico
+### 🎓 Formación y Experiencia
+* **G.S. Desarrollo de Aplicaciones Web (DAW)** - *I.E.S. Mar de Cádiz* - 2024/Actualidad
+    * Experiencia Dual (1 mes) en **Digital Cuisine** (Primer Año).
+* **G.M. Sistemas Microinformáticos y Redes (SMR)** - *I.E.S. Almunia* - 2022/2024
+    * Prácticas Erasmus (3 meses) en **CHP (Computer House Palermo)**, Italia.
+
+---
+
+### 💻 Stack Tecnológico
 
 **Frontend:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -24,16 +29,19 @@ Actualmente cursando el último año de **Desarrollo de Aplicaciones Web** en mo
 
 ---
 
-### ⚽ Más sobre mí
-No todo es código. Soy una persona muy activa y social:
-* **Compromiso y Equipo:** Juego como lateral en el **Jerez Industrial CF**. La disciplina del fútbol la aplico cada día en mis proyectos y en mi capacidad de trabajar bajo presión.
-* **Experiencia Internacional:** Realicé un Erasmus en **Palermo, Italia**, trabajando en el sector tecnológico.
+### ⚽ Soft Skills: Más allá del código
+Como jugardor del **Jerez Industrial CF**, traslado los valores del campo al desarrollo de software:
+* **Liderazgo y Comunicación:** Gestión de grupo y resolución de conflictos.
+* **Disciplina:** Capacidad de sacrificio y enfoque en los objetivos del equipo.
+* **Resiliencia:** Trabajo bajo presión para sacar adelante los proyectos.
+* **Adaptabilidad y Flexibilidad:** Mi experiencia Erasmus en Palermo (Italia) trabajando en el sector tecnológico me dio la capacidad de integrarme rápidamente en entornos nuevos y multiculturales.
+* **Mentalidad de Crecimiento:** Habituado al aprendizaje de nuevas tecnologías y abierto a la formación en nuevos idiomas para colaborar en proyectos internacionales.
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
-![Estadísticas de David](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
+### 📈 Estadísticas
+![Estadísticas de David](https://github-readme-stats.vercel.app/api?username=OrellanaLIX&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaLIX&layout=compact&theme=radical)
 
 ---
 
