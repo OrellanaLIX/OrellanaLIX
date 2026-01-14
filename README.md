@@ -6,7 +6,7 @@ Estudiante de último año de **Desarrollo de Aplicaciones Web** en el **I.E.S. 
 ---
 
 ### 🛠️ Proyectos Destacados
-* **[JerezSur Inmobiliaria](URL_REPO):** (TFG) Sistema integral de gestión inmobiliaria con Spring Boot, MySQL y Google Calendar API. Digitalización real de negocio familiar. Actualmente se encuentra en contruccion.
+* **[JerezSur Inmobiliaria](https://github.com/OrellanaLIX/PFG_JerezSurInmobiliaria):** (TFG) Sistema integral de gestión inmobiliaria con Spring Boot, MySQL y Google Calendar API. Digitalización real de negocio familiar. Actualmente se encuentra en contruccion.
 * **[GameScore](URL_REPO):** Trabajo grupal entre tres personas, trataba de una plataforma para la comunidad gamer desarrollada en equipo. Muestra nuestra aplicación de metodologías ágiles y use de APIs REST.
 
 ---
@@ -46,4 +46,4 @@ Como jugardor del **Jerez Industrial CF**, traslado los valores del campo al des
 ---
 
 ### 📬 Conectemos
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/davidorellana-dev)
